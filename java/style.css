@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    cursor:pointer;
+}
+.father{
+    margin-top: 300px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin-left: 850px;
+    margin-top: -280px;
+    border-radius: 100%;
+}
+.btn_{
+    margin-top: 20px;
+    margin-left: 888px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 30px;
+    border-radius: 8%;
+}
